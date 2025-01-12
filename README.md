@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ZnDx553
 - 👀 I’m interested in python
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning GitHub, Fiber optic, and IoT
 - 💞️ I’m looking to collaborate on game development
 - 📫 How to reach me zndxclips@gmail.com
 
